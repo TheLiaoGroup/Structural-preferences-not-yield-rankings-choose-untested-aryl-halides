@@ -1,0 +1,21 @@
+array,records,excluded_version_conflict,retained_records,repeated_pair_condition,quantified,zero_by_rule,detected_not_quantified,no_screen_record,failed_platform_check,use,wells_used
+Acylation,115129,396,114733,338,88028,11012,15355,0,0,core design and second condition set,41645
+Allylic-substitution,5774,0,5774,0,5036,86,652,0,0,"not used: design has 57 pairs, 8 electrophiles, 27 nucleophiles",0
+Buchwald-Hartwig,53516,0,53516,0,47682,2012,3822,0,0,core design and second condition set,14051
+Buchwald-Hartwig(CMC),17818,0,17818,0,17574,56,188,0,0,second Buchwald-Hartwig campaign: every checked well,17630
+C-O competitive reactions,10702,0,10702,0,8110,911,487,1194,0,core design and second condition set,3688
+Chan-Lam,14081,0,14081,0,13723,249,109,0,0,core design and second condition set,7111
+Esterification,6249,0,6249,0,6105,0,117,27,0,core design and second condition set,2640
+Finkelstein,3678,0,3678,0,2678,940,60,0,3678,not used: halide exchange of a single substrate,0
+Grignard,5793,0,5793,0,5301,60,432,0,0,core design and second condition set,4578
+Heck,29615,0,29615,0,22988,4025,900,1702,190,core design and second condition set,11811
+Hiyama,12792,0,12792,0,11208,86,61,1437,0,core design and second condition set,4997
+Kumada,18155,0,18155,0,18069,0,86,0,0,core design and second condition set,8092
+Minisci,1152,0,1152,0,1152,0,0,0,0,"not used: design has 23 pairs, 8 electrophiles, 14 nucleophiles",0
+Pd-carbonylation,3503,0,3503,0,3480,0,23,0,0,"not used: design has 44 pairs, 28 electrophiles, 8 nucleophiles",0
+Reductive-amination,8858,0,8858,0,8858,0,0,0,0,core design and second condition set,7376
+SNAr,20601,0,20601,0,17260,2106,982,253,0,core design and second condition set,17048
+Sonogashira,14691,0,14691,0,14114,108,469,0,0,core design and second condition set,4813
+Suzuki,41240,0,41240,0,41229,0,11,0,0,core design and second condition set,16287
+Suzuki Bpin,6672,0,6672,0,6606,1,65,0,0,core design and second condition set,2161
+Ullmann,20964,0,20964,0,20495,2,467,0,0,core design and second condition set,8987

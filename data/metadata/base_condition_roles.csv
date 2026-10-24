@@ -1,0 +1,601 @@
+design,set,rxn_class,coverage_rank,condition_id,reagents,solvent,temperature_C,time_h
+twenty conditions,analysed,Acylation,1,C4,DCMT; DIPEA,DMF,25.0,2.0
+twenty conditions,analysed,Acylation,2,C2,TFFH; DIPEA,DMF,25.0,2.0
+twenty conditions,analysed,Acylation,3,C44,DMTMM; DIPEA,DMF,25.0,2.0
+twenty conditions,analysed,Acylation,4,C50,DCMT; NMM,DMF,25.0,2.0
+twenty conditions,analysed,Acylation,5,C62,TFFH; DMAP; DIPEA,DMF,25.0,2.0
+twenty conditions,analysed,Acylation,6,C48,TFFH; NMM,DMF,25.0,2.0
+twenty conditions,analysed,Acylation,7,C72,IBCF; NMM,DMF,25.0,2.0
+twenty conditions,analysed,Acylation,8,C76,TCFH; NMI,DMF,25.0,2.0
+twenty conditions,analysed,Acylation,9,C70,DCC; NHS; TEA,DMF,25.0,2.0
+twenty conditions,analysed,Acylation,10,C38,PyBrOP; HOBt; DIPEA,DMF,25.0,2.0
+twenty conditions,analysed,Acylation,11,C46,BOPCl; DMAP,DMF,25.0,2.0
+twenty conditions,analysed,Acylation,12,C43,DPP-Cl; DIPEA,DMF,25.0,2.0
+twenty conditions,analysed,Acylation,13,C15,PyClOP; HOBt; DIPEA,DMF,25.0,2.0
+twenty conditions,analysed,Acylation,14,C47,EDC-HCl; NMM,DMF,25.0,2.0
+twenty conditions,analysed,Acylation,15,C94,HBPYU,DMF,25.0,2.0
+twenty conditions,analysed,Acylation,16,C92,HATU,DMF,25.0,2.0
+twenty conditions,analysed,Acylation,17,C68,EDC-HCl; NHS; TEA,DMF,25.0,2.0
+twenty conditions,analysed,Acylation,18,C5,"COMU; 2,6-lutidine",DMF,25.0,2.0
+twenty conditions,analysed,Acylation,19,C86,DIC; Cl-HOBT,DMF,25.0,2.0
+twenty conditions,analysed,Acylation,20,C19,HATU; HOAT; DIPEA,DMF,25.0,2.0
+twenty conditions,held out,Acylation,1,C53,EDC-HCl; NHS; NMM,DMF,25.0,2.0
+twenty conditions,held out,Acylation,2,C63,CDI; DBU,DMF,25.0,2.0
+twenty conditions,held out,Acylation,3,C58,DCC; NHPI; NMM,DMF,25.0,2.0
+twenty conditions,held out,Acylation,4,C59,CITU; NMM,DMF,25.0,2.0
+twenty conditions,held out,Acylation,5,C39,PyBrOP; DIPEA,DMF,25.0,2.0
+twenty conditions,held out,Acylation,6,C16,PyClOP; DIPEA,DMF,25.0,2.0
+twenty conditions,held out,Acylation,7,C45,PyCIU; DIPEA,DMF,25.0,2.0
+twenty conditions,held out,Acylation,8,C85,DIC; HOBt,DMF,25.0,2.0
+twenty conditions,held out,Acylation,9,C52,EDC-HCl; pentafluorophenol; NMM,DMF,25.0,2.0
+twenty conditions,held out,Acylation,10,C77,DCC,DMF,25.0,2.0
+twenty conditions,held out,Acylation,11,C56,DCC; pentafluorophenol; NMM,DMF,25.0,2.0
+twenty conditions,held out,Acylation,12,C61,PyAOP; NMM,DMF,25.0,2.0
+twenty conditions,held out,Acylation,13,C54,EDC-HCl; NHPI; NMM,DMF,25.0,2.0
+twenty conditions,held out,Acylation,14,C34,PyAOP; HOAT; DIPEA,DMF,25.0,2.0
+twenty conditions,held out,Acylation,15,C10,TNTU; DIPEA,DMF,25.0,2.0
+twenty conditions,held out,Acylation,16,C55,"DCC; 2,4,5-TRICHLOROPHENOL SODIUM SALT; NMM",DMF,25.0,2.0
+twenty conditions,held out,Acylation,17,C28,EDC-HCl; NHPI; DIPEA,DMF,25.0,2.0
+twenty conditions,held out,Acylation,18,C84,DIC; HOAT,DMF,25.0,2.0
+twenty conditions,held out,Acylation,19,C87,EDC-HCl,DMF,25.0,2.0
+twenty conditions,held out,Acylation,20,C18,FDPP; DIPEA,DMF,25.0,2.0
+twenty conditions,analysed,Buchwald-Hartwig,1,C79,tBuBrettPhos Pd G3; tBuBrettPhos; LiHMDS,"1,4-dioxane",100.0,16.0
+twenty conditions,analysed,Buchwald-Hartwig,2,C26,RuPhos Pd G3; Cs2CO3,"1,4-dioxane",100.0,16.0
+twenty conditions,analysed,Buchwald-Hartwig,3,C20,Pd(OAc)2; XantPhos; Cs2CO3,"1,4-dioxane",100.0,16.0
+twenty conditions,analysed,Buchwald-Hartwig,4,C57,SPhos Pd G1; RuPhos; Cs2CO3,t-AmOH,100.0,16.0
+twenty conditions,analysed,Buchwald-Hartwig,5,C58,BrettPhos Pd G3; RuPhos; Cs2CO3,t-AmOH,100.0,16.0
+twenty conditions,analysed,Buchwald-Hartwig,6,C93,XPhos Pd G3; tBuBrettPhos; LiHMDS,t-AmOH,100.0,16.0
+twenty conditions,analysed,Buchwald-Hartwig,7,C27,BrettPhos Pd G4; Cs2CO3,"1,4-dioxane",100.0,16.0
+twenty conditions,analysed,Buchwald-Hartwig,8,C45,Josiphos Pd G3; NaOtBu,DME,100.0,16.0
+twenty conditions,analysed,Buchwald-Hartwig,9,C55,XantPhos Pd G3; NaOtBu,DME,100.0,16.0
+twenty conditions,analysed,Buchwald-Hartwig,10,C39,BrettPhos Pd G4; NaOtBu,"1,4-dioxane",100.0,16.0
+twenty conditions,analysed,Buchwald-Hartwig,11,C59,Pd(OAc)2; BrettPhos; K2CO3,t-AmOH,100.0,16.0
+twenty conditions,analysed,Buchwald-Hartwig,12,C78,SPhos Pd G1; XPhos; LiHMDS,"1,4-dioxane",100.0,16.0
+twenty conditions,analysed,Buchwald-Hartwig,13,C11,BrettPhos Pd G3; RuPhos; NaOtBu,"1,4-dioxane",100.0,16.0
+twenty conditions,analysed,Buchwald-Hartwig,14,C51,BrettPhos Pd G3; CyPF-tBu; NaOtBu,DME,100.0,16.0
+twenty conditions,analysed,Buchwald-Hartwig,15,C95,Pd(OAc)2; XPhos; K3PO4,t-AmOH,100.0,16.0
+twenty conditions,analysed,Buchwald-Hartwig,16,C35,XPhos Pd G3; Cs2CO3,"1,4-dioxane",100.0,16.0
+twenty conditions,analysed,Buchwald-Hartwig,17,C41,CPhos Pd G3; NaOtBu,DME,100.0,16.0
+twenty conditions,analysed,Buchwald-Hartwig,18,C66,Pd(OAc)2; XantPhos; K3PO4,t-AmOH,100.0,16.0
+twenty conditions,analysed,Buchwald-Hartwig,19,C75,BrettPhos Pd; BrettPhos; LiHMDS,"1,4-dioxane",100.0,16.0
+twenty conditions,analysed,Buchwald-Hartwig,20,C91,XPhos Pd G4; NaOtBu,"1,4-dioxane",100.0,16.0
+twenty conditions,held out,Buchwald-Hartwig,1,C31,tBuXPhos Pd G3; Cs2CO3,"1,4-dioxane",100.0,16.0
+twenty conditions,held out,Buchwald-Hartwig,2,C61,BrettPhos Pd G3; K3PO4,t-AmOH,100.0,16.0
+twenty conditions,held out,Buchwald-Hartwig,3,C80,SPhos Pd G1; RuPhos; LiHMDS,"1,4-dioxane",100.0,16.0
+twenty conditions,held out,Buchwald-Hartwig,4,C94,Pd2(dba)3; Me4tBuXPhos; LiHMDS,t-AmOH,100.0,16.0
+twenty conditions,held out,Buchwald-Hartwig,5,C22,Pd2(dba)3; tBuDavePhos; NaOtBu,"1,4-dioxane",100.0,16.0
+twenty conditions,held out,Buchwald-Hartwig,6,C42,CuI; DMPAO; K3PO4,DME,100.0,16.0
+twenty conditions,held out,Buchwald-Hartwig,7,C71,XPhos Pd G3; XPhos; K3PO4,t-AmOH,100.0,16.0
+twenty conditions,held out,Buchwald-Hartwig,8,C82,CuI; L-proline; K3PO4,DMSO,100.0,16.0
+twenty conditions,held out,Buchwald-Hartwig,9,C25,RockPhos Pd G3; Cs2CO3,"1,4-dioxane",100.0,16.0
+twenty conditions,held out,Buchwald-Hartwig,10,C30,tBuXPhos Pd G3; NaOtBu,"1,4-dioxane",100.0,16.0
+twenty conditions,held out,Buchwald-Hartwig,11,C34,XantPhos Pd G3; Zn(OAc)2,"1,4-dioxane",100.0,16.0
+twenty conditions,held out,Buchwald-Hartwig,12,C36,XPhos Pd G3; NaOtBu,"1,4-dioxane",100.0,16.0
+twenty conditions,held out,Buchwald-Hartwig,13,C63,BrettPhos Pd G3; BrettPhos; K3PO4,t-AmOH,100.0,16.0
+twenty conditions,held out,Buchwald-Hartwig,14,C69,RuPhos Pd G3; K3PO4,t-AmOH,100.0,16.0
+twenty conditions,held out,Buchwald-Hartwig,15,C16,DavePhos Pd G3; NaOtBu,"1,4-dioxane",100.0,16.0
+twenty conditions,held out,Buchwald-Hartwig,16,C54,RuPhos Pd G3; NaOtBu,DME,100.0,16.0
+twenty conditions,held out,Buchwald-Hartwig,17,C6,BINAP Pd G3; Cs2CO3,"1,4-dioxane",100.0,16.0
+twenty conditions,held out,Buchwald-Hartwig,18,C29,tBuBrettPhos Pd G3; NaOtBu,"1,4-dioxane",100.0,16.0
+twenty conditions,held out,Buchwald-Hartwig,19,C33,XantPhos Pd G3; Cs2CO3,"1,4-dioxane",100.0,16.0
+twenty conditions,held out,Buchwald-Hartwig,20,C40,(tBu)PhCPhos Pd G3; NaOtBu,"1,4-dioxane",100.0,16.0
+twenty conditions,analysed,C-O competitive reactions,1,C26,"Pd(OAc)2; trans-1,2-Cy-(NHMe)2; MTBD","1,4-dioxane",100.0,16.0
+twenty conditions,analysed,C-O competitive reactions,2,C78,Cu2O; 1H-imidazole-4-carboxylic acid; Cs2CO3,"1,4-dioxane",100.0,16.0
+twenty conditions,analysed,C-O competitive reactions,3,C34,CuI; Me4tBuXPhos; NaOtBu,"1,4-dioxane",100.0,16.0
+twenty conditions,analysed,C-O competitive reactions,4,C28,AdBrettPhos Pd G3; NaOtBu,"1,4-dioxane",100.0,16.0
+twenty conditions,analysed,C-O competitive reactions,5,C95,Pd(OAc)2; DavePhos; K3PO4,xylene,100.0,16.0
+twenty conditions,analysed,C-O competitive reactions,6,C10,Pd2(dba)3; BrettPhos; Cs2CO3,xylene,100.0,16.0
+twenty conditions,analysed,C-O competitive reactions,7,C36,BrettPhos Pd G3; tBuXphos; NaOtBu,"1,4-dioxane",100.0,16.0
+twenty conditions,analysed,C-O competitive reactions,8,C42,tBuXPhos Pd G3; MTBD,DMSO,100.0,16.0
+twenty conditions,analysed,C-O competitive reactions,9,C13,Pd(OAc)2; dppf; NaOtBu,xylene,100.0,16.0
+twenty conditions,analysed,C-O competitive reactions,10,C15,Pd2(dba)3; XPhos; K3PO4,xylene,100.0,16.0
+twenty conditions,analysed,C-O competitive reactions,11,C16,Pd2(dba)3; tBuXphos; K3PO4,xylene,100.0,16.0
+twenty conditions,analysed,C-O competitive reactions,12,C38,"CuBr; N,N-dimethylglycine; Cs2CO3; KI",DMSO,100.0,16.0
+twenty conditions,analysed,C-O competitive reactions,13,C46,tBuXPhos Pd G3; Me4tBuXPhos; Cs2CO3,DMSO,100.0,16.0
+twenty conditions,analysed,C-O competitive reactions,14,C89,CuI; Me4tBuXPhos; Cs2CO3,xylene,100.0,16.0
+twenty conditions,analysed,C-O competitive reactions,15,C92,Pd(OAc)2; AdBippyPhos; Cs2CO3,xylene,100.0,16.0
+twenty conditions,analysed,C-O competitive reactions,16,C12,Pd(OAc)2; JohnPhos; K3PO4,xylene,100.0,16.0
+twenty conditions,analysed,C-O competitive reactions,17,C31,tBuXPhos Pd G3; Me4Phen; K3PO4,"1,4-dioxane",100.0,16.0
+twenty conditions,analysed,C-O competitive reactions,18,C45,BrettPhos Pd G3; Me4tBuXPhos; Cs2CO3,DMSO,100.0,16.0
+twenty conditions,analysed,C-O competitive reactions,19,C56,"tBuBrettPhos Pd G3; trans-1,2-Cy-(NHMe)2; Cs2CO3",NMP,100.0,16.0
+twenty conditions,analysed,C-O competitive reactions,20,C57,"CuI; trans-1,2-Cy-(NHMe)2; KOtBu",t-AmOH,100.0,16.0
+twenty conditions,held out,C-O competitive reactions,1,C58,BrettPhos Pd G3; RuPhos; Cs2CO3,t-AmOH,100.0,16.0
+twenty conditions,held out,C-O competitive reactions,2,C64,BrettPhos Pd G3; BrettPhos; NaOtBu,t-AmOH,100.0,16.0
+twenty conditions,held out,C-O competitive reactions,3,C67,XantPhos Pd G3; Me4tBuXPhos; NaOtBu,"1,4-dioxane",100.0,16.0
+twenty conditions,held out,C-O competitive reactions,4,C70,"BINAP Pd G3; trans-1,2-Cy-(NHMe)2; KOtBu","1,4-dioxane",100.0,16.0
+twenty conditions,held out,C-O competitive reactions,5,C81,Pd[P(o-tolyl)3]2; RuPhos; K2CO3,"1,4-dioxane",100.0,16.0
+twenty conditions,held out,C-O competitive reactions,6,C84,"BrettPhos Pd G3; trans-1,2-Cy-(NHMe)2; Cs2CO3","1,4-dioxane",100.0,16.0
+twenty conditions,held out,C-O competitive reactions,7,C93,Pd(OAc)2; Me4tBuXPhos; K3PO4,xylene,100.0,16.0
+twenty conditions,held out,C-O competitive reactions,8,C14,Pd(OAc)2; rac-BINAP; K2CO3,xylene,100.0,16.0
+twenty conditions,held out,C-O competitive reactions,9,C33,tBuXPhos Pd G3; NaOtBu,"1,4-dioxane",100.0,16.0
+twenty conditions,held out,C-O competitive reactions,10,C69,tBuBrettPhos Pd G3; tBuBrettPhos; NaOtBu,"1,4-dioxane",100.0,16.0
+twenty conditions,held out,C-O competitive reactions,11,C72,Cu; N-phenylpicolinamide; Cs2CO3,"1,4-dioxane",100.0,16.0
+twenty conditions,held out,C-O competitive reactions,12,C79,Pd[P(o-tolyl)3]2; BrettPhos; Cs2CO3,"1,4-dioxane",100.0,16.0
+twenty conditions,held out,C-O competitive reactions,13,C87,Pd[P(o-tolyl)3]2; BrettPhos; NaOtBu,"1,4-dioxane",100.0,16.0
+twenty conditions,held out,C-O competitive reactions,14,C91,Pd(OAc)2; JohnPhos; Cs2CO3,xylene,100.0,16.0
+twenty conditions,held out,C-O competitive reactions,15,C11,Pd2(dba)3; CyPF-tBu; Cs2CO3,xylene,100.0,16.0
+twenty conditions,held out,C-O competitive reactions,16,C25,tBuBrettPhos Pd G3; NaOtBu,"1,4-dioxane",100.0,16.0
+twenty conditions,held out,C-O competitive reactions,17,C37,BrettPhos Pd G3; Me4tBuXPhos; KOtBu,"1,4-dioxane",100.0,16.0
+twenty conditions,held out,C-O competitive reactions,18,C61,Pd(OAc)2; BrettPhos; K2CO3,t-AmOH,100.0,16.0
+twenty conditions,held out,C-O competitive reactions,19,C62,XPhos Pd G3; XantPhos; K2CO3,t-AmOH,100.0,16.0
+twenty conditions,held out,C-O competitive reactions,20,C88,XPhos Pd G3; RuPhos; NaOtBu,"1,4-dioxane",100.0,16.0
+twenty conditions,analysed,Chan-Lam,1,C42,Cu(OAc)2; Py,"1,4-dioxane",25.0,16.0
+twenty conditions,analysed,Chan-Lam,2,C39,Cu(OAc)2; Py,MeOH,25.0,16.0
+twenty conditions,analysed,Chan-Lam,3,C20,Cu2(OTf)2.toluene; DMEDA,MeCN,25.0,16.0
+twenty conditions,analysed,Chan-Lam,4,C43,Cu(OAc)2; Py; PNO,DMF,25.0,16.0
+twenty conditions,analysed,Chan-Lam,5,C47,"Cu(OAc)2; 2,6-lutidine; decanoic acid",toluene,25.0,16.0
+twenty conditions,analysed,Chan-Lam,6,C46,Cu(OAc)2; K2CO3; MnO2,DCE,25.0,16.0
+twenty conditions,analysed,Chan-Lam,7,C18,Cu(MeCN)4BF4; K3PO4,MeCN,25.0,16.0
+twenty conditions,analysed,Chan-Lam,8,C29,Cu(OTf)2,MeOH,25.0,16.0
+twenty conditions,analysed,Chan-Lam,9,C37,Cu(OAc)2; Py; NMO,DMF,25.0,16.0
+twenty conditions,analysed,Chan-Lam,10,C45,Cu(OAc)2; Py,DCE,25.0,16.0
+twenty conditions,analysed,Chan-Lam,11,C15,Cu(NO3)2·5H2O; TMEDA,MeCN,25.0,16.0
+twenty conditions,analysed,Chan-Lam,12,C2,Cu(OAc)2; TMEDA; Py,"1,4-dioxane",25.0,16.0
+twenty conditions,analysed,Chan-Lam,13,C23,Cu(OTf)2; TMEDA,MeCN,25.0,16.0
+twenty conditions,analysed,Chan-Lam,14,C17,"Cu(OAc)2; 1,10-Phen; K2CO3",MeCN,25.0,16.0
+twenty conditions,analysed,Chan-Lam,15,C44,"Cu(OAc)2; 2,2-bipyridine; K2CO3",DCE,25.0,16.0
+twenty conditions,analysed,Chan-Lam,16,C31,CuCl2,MeOH,25.0,16.0
+twenty conditions,analysed,Chan-Lam,17,C38,"CuCl2; 2,6-lutidine",DMF,25.0,16.0
+twenty conditions,analysed,Chan-Lam,18,C27,Cu(OAc)2; Py; TEMPO,DMF,25.0,16.0
+twenty conditions,analysed,Chan-Lam,19,C33,Cu(OAc)2; triethanolamine; PNO,DMF,25.0,16.0
+twenty conditions,analysed,Chan-Lam,20,C21,Cu(NO3)2·5H2O; TMEDA; triethanolamine,MeCN,25.0,16.0
+twenty conditions,held out,Chan-Lam,1,C25,Cu(OAc)2; triethanolamine; TEMPO,DMF,25.0,16.0
+twenty conditions,held out,Chan-Lam,2,C26,Cu(NO3)2; DMEDA,MeOH,25.0,16.0
+twenty conditions,held out,Chan-Lam,3,C32,CuCl2; K2CO3,MeOH,25.0,16.0
+twenty conditions,held out,Chan-Lam,4,C36,Cu(OAc)2; triethanolamine; NMO,DMF,25.0,16.0
+twenty conditions,held out,Chan-Lam,5,C9,Cu(OAc)2; triethanolamine; PNO,DMF,25.0,16.0
+twenty conditions,held out,Chan-Lam,6,C19,Cu(MeCN)4BF4; triethanolamine,MeCN,25.0,16.0
+twenty conditions,held out,Chan-Lam,7,C41,CuCl2; triethanolamine,"1,4-dioxane",25.0,16.0
+twenty conditions,held out,Chan-Lam,8,C22,Cu(OTf)2; TMEDA; triethanolamine,MeCN,25.0,16.0
+twenty conditions,held out,Chan-Lam,9,C48,"NiCl2.6H2O; 2,2-bipyridine; DBU",toluene,25.0,16.0
+twenty conditions,held out,Chan-Lam,10,C28,Cu(NO3)2; triethanolamine,MeOH,25.0,16.0
+twenty conditions,held out,Chan-Lam,11,C30,Cu(OAc)2; TMEDA,MeOH,25.0,16.0
+twenty conditions,held out,Chan-Lam,12,C40,Cu(OAc)2; TMEDA; LiOtBu,THF,25.0,16.0
+twenty conditions,held out,Chan-Lam,13,C59,Cu(OAc)2; DMEDA; Na2CO3,DCE,70.0,16.0
+twenty conditions,held out,Chan-Lam,14,C52,Cu(OAc)2; Na2CO3,DMSO,70.0,16.0
+twenty conditions,held out,Chan-Lam,15,C82,Cu(OAc)2; Cs2CO3,DMF,70.0,16.0
+twenty conditions,held out,Chan-Lam,16,C86,Cu(OAc)2; Na2CO3,DMF,70.0,16.0
+twenty conditions,held out,Chan-Lam,17,C61,Cu(OAc)2; Py; Na2CO3,DCE,70.0,16.0
+twenty conditions,held out,Chan-Lam,18,C65,"Cu(OAc)2; 1,10-Phen; Na2CO3",DCE,70.0,16.0
+twenty conditions,held out,Chan-Lam,19,C72,Cu(OAc)2; DIPEA,DCE,70.0,16.0
+twenty conditions,held out,Chan-Lam,20,C51,Cu(OAc)2; TEA,DMSO,70.0,16.0
+twenty conditions,analysed,Esterification,1,C20,DMAP; TEA; EDC-HCl,DMF,25.0,4.0
+twenty conditions,analysed,Esterification,2,C82,DMAP; EDC-HCl,NMP,25.0,4.0
+twenty conditions,analysed,Esterification,3,C10,DMAP; DIPEA; EDC-HCl,DMF,25.0,4.0
+twenty conditions,analysed,Esterification,4,C34,PTSA monohydrate; DMAP; DCC,p-xylene,25.0,4.0
+twenty conditions,analysed,Esterification,5,C7,DMAP; DBU; CDI,DMF,25.0,4.0
+twenty conditions,analysed,Esterification,6,C70,PTSA monohydrate; DMAP; DCC,DCE,25.0,4.0
+twenty conditions,analysed,Esterification,7,C85,PTSA monohydrate; DCC,Py,25.0,4.0
+twenty conditions,analysed,Esterification,8,C21,Py; EDC-HCl; HOBt,DMF,25.0,4.0
+twenty conditions,analysed,Esterification,9,C26,DMAP; EDC-HCl,p-xylene,25.0,4.0
+twenty conditions,analysed,Esterification,10,C76,DMAP; EDC-HCl,MeCN,25.0,4.0
+twenty conditions,analysed,Esterification,11,C87,DMAP; DCC,CCl4,25.0,4.0
+twenty conditions,analysed,Esterification,12,C11,EDC-HCl,DMF,25.0,4.0
+twenty conditions,analysed,Esterification,13,C2,DMAP; EDC-HCl,DMF,25.0,4.0
+twenty conditions,analysed,Esterification,14,C22,EDC-HCl,p-xylene/MeCN (1:1),25.0,4.0
+twenty conditions,analysed,Esterification,15,C27,DMAP; DCC,p-xylene,25.0,4.0
+twenty conditions,analysed,Esterification,16,C4,DCC,DMF,25.0,4.0
+twenty conditions,analysed,Esterification,17,C44,DMAP; EDC-HCl,THF,25.0,4.0
+twenty conditions,analysed,Esterification,18,C50,TEA; EDC-HCl; HOBt,THF,25.0,4.0
+twenty conditions,analysed,Esterification,19,C57,DMAP; DCC,DCE,25.0,4.0
+twenty conditions,analysed,Esterification,20,C61,DMAP; DIPEA; EDC-HCl,DCE,25.0,4.0
+twenty conditions,held out,Esterification,1,C66,DIC,DCE,25.0,4.0
+twenty conditions,held out,Esterification,2,C19,Py; CDI,DMF,25.0,4.0
+twenty conditions,held out,Esterification,3,C42,DMAP; DCC,THF,25.0,4.0
+twenty conditions,held out,Esterification,4,C53,PTSA monohydrate; DMAP; DCC,THF,25.0,4.0
+twenty conditions,held out,Esterification,5,C58,DMAP; EDC-HCl,DCE,25.0,4.0
+twenty conditions,held out,Esterification,6,C6,H2SO4,DMF,25.0,4.0
+twenty conditions,held out,Esterification,7,C63,DMAP; TEA; EDC-HCl,DCE,25.0,4.0
+twenty conditions,held out,Esterification,8,C71,4-Mamp; DCC,CCl4,25.0,4.0
+twenty conditions,held out,Esterification,9,C73,CDI,MeCN,25.0,4.0
+twenty conditions,held out,Esterification,10,C79,DMAP; DCC,MeCN,25.0,4.0
+twenty conditions,held out,Esterification,11,C9,CDI,DMF,25.0,4.0
+twenty conditions,held out,Esterification,12,C15,DMAP; HATU; DIPEA,DMF,25.0,4.0
+twenty conditions,held out,Esterification,13,C59,DMAP; DIC,DCE,25.0,4.0
+twenty conditions,held out,Esterification,14,C67,EDC-HCl,DCE,25.0,4.0
+twenty conditions,held out,Esterification,15,C3,DMAP; DCC,DMF,25.0,4.0
+twenty conditions,held out,Esterification,16,C5,DMAP; DIC,DMF,25.0,4.0
+twenty conditions,held out,Esterification,17,C78,DCC,MeCN,25.0,4.0
+twenty conditions,held out,Esterification,18,C8,DBU; CDI,DMF,25.0,4.0
+twenty conditions,held out,Esterification,19,C88,DMAP; TEA; DCC,"1,4-dioxane",25.0,4.0
+twenty conditions,held out,Esterification,20,C12,DMAP; TBTU; DIPEA,DMF,25.0,4.0
+twenty conditions,analysed,Grignard,1,C13,I2,THF,25.0,3.0
+twenty conditions,analysed,Grignard,2,C22,MgBr2.Et2O,THF,25.0,3.0
+twenty conditions,analysed,Grignard,3,C24,BMS,THF,25.0,3.0
+twenty conditions,analysed,Grignard,4,C37,LAH,CPME,25.0,3.0
+twenty conditions,analysed,Grignard,5,C15,LiCl,THF,25.0,3.0
+twenty conditions,analysed,Grignard,6,C40,,CPME,25.0,3.0
+twenty conditions,analysed,Grignard,7,C14,K2CO3,THF,25.0,3.0
+twenty conditions,analysed,Grignard,8,C47,,DEM/THF (1:1),25.0,3.0
+twenty conditions,analysed,Grignard,9,C10,Cu,THF,25.0,3.0
+twenty conditions,analysed,Grignard,10,C27,(+)-DIP-Chloride,THF,25.0,3.0
+twenty conditions,analysed,Grignard,11,C6,CdCl2,THF,25.0,3.0
+twenty conditions,analysed,Grignard,12,C18,Pd(PPh3)4,THF,25.0,3.0
+twenty conditions,analysed,Grignard,13,C25,HMPA,THF,25.0,3.0
+twenty conditions,analysed,Grignard,14,C38,I2,CPME,25.0,3.0
+twenty conditions,analysed,Grignard,15,C11,ZnCl2,THF,25.0,3.0
+twenty conditions,analysed,Grignard,16,C12,CuI,THF,25.0,3.0
+twenty conditions,analysed,Grignard,17,C3,"1,10-Phen",THF,25.0,3.0
+twenty conditions,analysed,Grignard,18,C32,,Et2O,25.0,3.0
+twenty conditions,analysed,Grignard,19,C44,I2,2-MeTHF,25.0,3.0
+twenty conditions,analysed,Grignard,20,C17,MTO,THF,25.0,3.0
+twenty conditions,held out,Grignard,1,C5,CuBr,THF,25.0,3.0
+twenty conditions,held out,Grignard,2,C2,,THF,25.0,3.0
+twenty conditions,held out,Grignard,3,C31,CuBr,Et2O,25.0,3.0
+twenty conditions,held out,Grignard,4,C8,CoCl2,THF,25.0,3.0
+twenty conditions,held out,Grignard,5,C30,LAH,Et2O,25.0,3.0
+twenty conditions,held out,Grignard,6,C46,,hexane,25.0,3.0
+twenty conditions,held out,Grignard,7,C48,,DME,25.0,3.0
+twenty conditions,held out,Grignard,8,C7,CeCl3,THF,25.0,3.0
+twenty conditions,held out,Grignard,9,C35,BMS,CPME,25.0,3.0
+twenty conditions,held out,Grignard,10,C42,,2-MeTHF,25.0,3.0
+twenty conditions,held out,Grignard,11,C9,Cp2TiCl2,THF,25.0,3.0
+twenty conditions,held out,Grignard,12,C19,Iron dibzacac,THF,25.0,3.0
+twenty conditions,held out,Grignard,13,C28,CuI,Et2O,25.0,3.0
+twenty conditions,held out,Grignard,14,C39,ZnBr2,CPME,25.0,3.0
+twenty conditions,held out,Grignard,15,C16,LiCl; ZnCl2,THF,25.0,3.0
+twenty conditions,held out,Grignard,16,C23,B-allyldiisopinocampheylborane,THF,25.0,3.0
+twenty conditions,held out,Grignard,17,C29,CdCl2,Et2O,25.0,3.0
+twenty conditions,held out,Grignard,18,C34,DIBAL-H,CPME,25.0,3.0
+twenty conditions,held out,Grignard,19,C4,"(2,2:6,2-Terpyridin)-4-ol",THF,25.0,3.0
+twenty conditions,held out,Grignard,20,C43,CeCl3,2-MeTHF,25.0,3.0
+twenty conditions,analysed,Heck,1,C21,Pd(OAc)2; KOAc; TBAC,MeOH/DMF (1:10),100.0,16.0
+twenty conditions,analysed,Heck,2,C22,Pd(OAc)2; K3PO4,DMF,100.0,16.0
+twenty conditions,analysed,Heck,3,C38,Pd(OAc)2; PPh3; NaOAc; Bu4NBr,DMA,100.0,16.0
+twenty conditions,analysed,Heck,4,C78,Pd(OAc)2; Cy2NMe; TBAC,DMF/DMA (1:10),100.0,16.0
+twenty conditions,analysed,Heck,5,C19,Pd(OAc)2; neocuproine; TEA,DMF,100.0,16.0
+twenty conditions,analysed,Heck,6,C53,Pd(OAc)2; SPhos; TBAE,"1,4-dioxane",100.0,16.0
+twenty conditions,analysed,Heck,7,C61,Pd(OAc)2; DavePhos; TBAE,THF,100.0,16.0
+twenty conditions,analysed,Heck,8,C64,Pd(OAc)2; PPh3; Cs2CO3; Bu4NHSO4,MeCN/H2O (10:1),100.0,16.0
+twenty conditions,analysed,Heck,9,C72,Pd/C; NaOAc,NMP,100.0,16.0
+twenty conditions,analysed,Heck,10,C11,Pd(OAc)2; K2CO3; Bu4NBr,DMF,100.0,16.0
+twenty conditions,analysed,Heck,11,C14,Pd(OAc)2; K2CO3; TBAC,DMF,100.0,16.0
+twenty conditions,analysed,Heck,12,C40,Pd(OAc)2; IMes.HCl; Cs2CO3,DMA,100.0,16.0
+twenty conditions,analysed,Heck,13,C43,Pd(OAc)2; SIPr.HCl; Cs2CO3,DMA,100.0,16.0
+twenty conditions,analysed,Heck,14,C54,PdCl2; DavePhos; TBAE,"1,4-dioxane",100.0,16.0
+twenty conditions,analysed,Heck,15,C65,Pd(OAc)2; P(tBu)3; DIPEA,NMP,100.0,16.0
+twenty conditions,analysed,Heck,16,C76,Pd(OAc)2; PPh3; KHCO3,DMI,100.0,16.0
+twenty conditions,analysed,Heck,17,C25,PdCl2; NaOAc; HCOONa,DMF,100.0,16.0
+twenty conditions,analysed,Heck,18,C28,Pd(OAc)2; DIPEA,DMF,100.0,16.0
+twenty conditions,analysed,Heck,19,C36,Pd(OAc)2; P(Mes)3; NaOAc,DMA,100.0,16.0
+twenty conditions,analysed,Heck,20,C7,Pd(OAc)2; PBu3; NaOAc,DMF,100.0,16.0
+twenty conditions,held out,Heck,1,C87,Pd(OAc)2,EG/TEA (1:1),100.0,16.0
+twenty conditions,held out,Heck,2,C92,Pd(OAc)2; P(o-tolyl)3; TEA,xylene,100.0,16.0
+twenty conditions,held out,Heck,3,C29,Pd(OAc)2; PPh3; TMEDA,DMF,100.0,16.0
+twenty conditions,held out,Heck,4,C42,Pd(OAc)2; IMes.HCl; Cs2CO3; Bu4NBr,DMA,100.0,16.0
+twenty conditions,held out,Heck,5,C69,"PdCl2(PhCN)2; N,N-dimethylglycine; NaOAc",NMP,100.0,16.0
+twenty conditions,held out,Heck,6,C70,Pd(OAc)2; K3PO4,NMP,100.0,16.0
+twenty conditions,held out,Heck,7,C27,Pd(OAc)2; Cu(OAc)2; LiOAc,DMF,100.0,16.0
+twenty conditions,held out,Heck,8,C52,Pd(OAc)2; XPhos; TBAE,"1,4-dioxane",100.0,16.0
+twenty conditions,held out,Heck,9,C66,Pd(OAc)2; PPh3; TEA,NMP,100.0,16.0
+twenty conditions,held out,Heck,10,C71,Pd(OAc)2; DIPEA; BnNEt3Br,DMF/NMP (1:3),100.0,16.0
+twenty conditions,held out,Heck,11,C75,Pd(OAc)2; PPh3; Na2CO3,DMI,100.0,16.0
+twenty conditions,held out,Heck,12,C13,Pd(OAc)2; KHCO3; TBAC,DMF,100.0,16.0
+twenty conditions,held out,Heck,13,C18,"Pd(OAc)2; 1,10-Phen; TEA",DMF,100.0,16.0
+twenty conditions,held out,Heck,14,C6,Pd(OAc)2; P(o-tolyl)3; NaOAc,DMF,100.0,16.0
+twenty conditions,held out,Heck,15,C79,"PdCl2(PhCN)2; N,N-dimethylglycine; NaOAc",DMA,100.0,16.0
+twenty conditions,held out,Heck,16,C15,Pd(OAc)2; LiCl; K2CO3; Bu4NBr,DMF,100.0,16.0
+twenty conditions,held out,Heck,17,C44,Pd(OAc)2; K3PO4,DMA,100.0,16.0
+twenty conditions,held out,Heck,18,C46,trans-di(μ-acetato)bis[o-(di-o-tolylphosphino)benzyl]dipalladium(II); NaOAc; Bu4NBr,DMA,100.0,16.0
+twenty conditions,held out,Heck,19,C67,Pd(OAc)2; dppb; TEA,NMP,100.0,16.0
+twenty conditions,held out,Heck,20,C77,Pd(dba)2; P(tBu)3; NaOAc,DMA,100.0,16.0
+twenty conditions,analysed,Hiyama,1,C86,Pd(OAc)2; PPh3; Bu4NBr,DMF,100.0,12.0
+twenty conditions,analysed,Hiyama,2,C29,Pd(dba)2; KHCO3; AgF,MeCN,100.0,12.0
+twenty conditions,analysed,Hiyama,3,C23,Pd(PPh3)4; K2CO3,DME,100.0,12.0
+twenty conditions,analysed,Hiyama,4,C55,Pd2(dba)3.CHCl3; TBAF,THF,100.0,12.0
+twenty conditions,analysed,Hiyama,5,C79,PdCl2(PPh3)2,DMF,100.0,12.0
+twenty conditions,analysed,Hiyama,6,C75,Pd(dba)2; TBAF,DMF,100.0,12.0
+twenty conditions,analysed,Hiyama,7,C8,Pd2(dba)3.CHCl3; NaOtBu; TBAF,THF,100.0,12.0
+twenty conditions,analysed,Hiyama,8,C24,Pd(dba)2; KOSiMe3,DME,100.0,12.0
+twenty conditions,analysed,Hiyama,9,C37,Cu(MeCN)4PF6; TBAF,MeCN,100.0,12.0
+twenty conditions,analysed,Hiyama,10,C41,PdCl2; TBAF,THF,100.0,12.0
+twenty conditions,analysed,Hiyama,11,C42,Pd2(dba)3; O=PPh3; KOSiMe3,THF,100.0,12.0
+twenty conditions,analysed,Hiyama,12,C45,Pd(allyl)Cl2; CyAPhos; KOSiMe3,DMA,100.0,12.0
+twenty conditions,analysed,Hiyama,13,C62,Pd(OAc)2; XPhos; TBAF,DMF,100.0,12.0
+twenty conditions,analysed,Hiyama,14,C69,Pd(dba)2; P(o-tolyl)3; KOH,MeOH,100.0,12.0
+twenty conditions,analysed,Hiyama,15,C72,Pd(OAc)2; PPh3; TBAF,THF,100.0,12.0
+twenty conditions,analysed,Hiyama,16,C87,Pd(OAc)2; P(o-tolyl)3; KF,DMF,100.0,12.0
+twenty conditions,analysed,Hiyama,17,C89,Pd(OAc)2; TBAF,DMF,100.0,12.0
+twenty conditions,analysed,Hiyama,18,C91,Pd(OAc)2; NaOH,H2O,100.0,12.0
+twenty conditions,analysed,Hiyama,19,C93,Pd2(dba)3; P(Mes)3; CsF,DMF,100.0,12.0
+twenty conditions,analysed,Hiyama,20,C96,Pd(PPh3)4; KOAc,DMF,100.0,12.0
+twenty conditions,held out,Hiyama,1,C13,Pd(OAc)2; PPh3; NaOMe,p-xylene,100.0,12.0
+twenty conditions,held out,Hiyama,2,C16,NiCl2-glyme,"1,4-dioxane",100.0,12.0
+twenty conditions,held out,Hiyama,3,C34,Pd(OAc)2; PPh3; NaOH,THF,100.0,12.0
+twenty conditions,held out,Hiyama,4,C36,Pd(OAc)2; dppb; TEA,MeCN,100.0,12.0
+twenty conditions,held out,Hiyama,5,C40,Pd(OAc)2; NaOH,THF,100.0,12.0
+twenty conditions,held out,Hiyama,6,C44,NiCl2-glyme; TBAT,DMA,100.0,12.0
+twenty conditions,held out,Hiyama,7,C47,PdBr2; P(tBu)2Me.HBF4; TBAF,THF,100.0,12.0
+twenty conditions,held out,Hiyama,8,C63,Pd(dba)2; TBAF,THF,100.0,12.0
+twenty conditions,held out,Hiyama,9,C64,PdCl2(PhCN)2; TBAF,THF,100.0,12.0
+twenty conditions,held out,Hiyama,10,C65,PdCl2(PPh3)2; TEA; TBAC,THF,100.0,12.0
+twenty conditions,held out,Hiyama,11,C67,Pd[P(tBu3)]2; AgF,THF,100.0,12.0
+twenty conditions,held out,Hiyama,12,C82,Pd(OAc)2; PPh3; CsF,DMF,100.0,12.0
+twenty conditions,held out,Hiyama,13,C94,Pd(acac)2; KF,DMF,100.0,12.0
+twenty conditions,held out,Hiyama,14,C12,Pd(OAc)2; XantPhos; KOH,p-xylene,100.0,12.0
+twenty conditions,held out,Hiyama,15,C15,Pd2(dba)3.CHCl3; NaOtBu,"1,4-dioxane",100.0,12.0
+twenty conditions,held out,Hiyama,16,C18,Pd(dba)2; TBAF,"1,4-dioxane",100.0,12.0
+twenty conditions,held out,Hiyama,17,C22,Pd(OAc)2; TBAF,"1,4-dioxane",100.0,12.0
+twenty conditions,held out,Hiyama,18,C25,PdCl2; PPh3,THF,100.0,12.0
+twenty conditions,held out,Hiyama,19,C3,NiCl2-glyme; KOtBu; 18-crown-6-ether,DMF,100.0,12.0
+twenty conditions,held out,Hiyama,20,C43,Pd2(dba)3; TBAF,THF,100.0,12.0
+twenty conditions,analysed,Kumada,1,C6,Pd(OAc)2; PPh3,THF,25.0,2.0
+twenty conditions,analysed,Kumada,2,C69,NiCl2(dppp); Na2CO3,Et2O,25.0,2.0
+twenty conditions,analysed,Kumada,3,C86,NiCl2(dppe),THF/Et2O (1:1),25.0,2.0
+twenty conditions,analysed,Kumada,4,C52,Fe(acac)3; DMI,THF,25.0,2.0
+twenty conditions,analysed,Kumada,5,C74,Pd(OAc)2; PPh3; ZnBr2,THF,25.0,2.0
+twenty conditions,analysed,Kumada,6,C19,PdCl2(dppf); ZnBr2,THF,25.0,2.0
+twenty conditions,analysed,Kumada,7,C25,PdCl2(dppf); DIBAL-H,THF,25.0,2.0
+twenty conditions,analysed,Kumada,8,C3,NiCl2(dppp),THF,25.0,2.0
+twenty conditions,analysed,Kumada,9,C57,XPhos Pd G3,Et2O,25.0,2.0
+twenty conditions,analysed,Kumada,10,C73,Pd[P(tBu3)]2; ZnCl2,THF,25.0,2.0
+twenty conditions,analysed,Kumada,11,C60,NiCl2(dppp),Et2O,25.0,2.0
+twenty conditions,analysed,Kumada,12,C66,Pd(dppf)Cl2·CH2Cl2,Et2O,25.0,2.0
+twenty conditions,analysed,Kumada,13,C70,Ni(dppf)Cl2,Et2O,25.0,2.0
+twenty conditions,analysed,Kumada,14,C22,Ni(acac)2; PPh3,THF,25.0,2.0
+twenty conditions,analysed,Kumada,15,C24,NiCl2(PCy3)2,THF,25.0,2.0
+twenty conditions,analysed,Kumada,16,C46,Ni(dppf)Cl2; KI,THF,25.0,2.0
+twenty conditions,analysed,Kumada,17,C53,FeCl3; TMU,THF,25.0,2.0
+twenty conditions,analysed,Kumada,18,C54,PdCl2(PPh3)2; ZnCl2,THF,25.0,2.0
+twenty conditions,analysed,Kumada,19,C81,Fe(acac)3,THF/Et2O (1:1),25.0,2.0
+twenty conditions,analysed,Kumada,20,C84,Ni(PPh3)4,THF/Et2O (1:1),25.0,2.0
+twenty conditions,held out,Kumada,1,C21,Ni(acac)2,THF,25.0,2.0
+twenty conditions,held out,Kumada,2,C23,Pd(PPh3)4; ZnBr2,THF,25.0,2.0
+twenty conditions,held out,Kumada,3,C5,PdCl2(dppf),THF,25.0,2.0
+twenty conditions,held out,Kumada,4,C63,PdCl2(dppf),Et2O,25.0,2.0
+twenty conditions,held out,Kumada,5,C83,PdCl2(dppf),THF/Et2O (1:1),25.0,2.0
+twenty conditions,held out,Kumada,6,C12,Ni(acac)2; TMEDA,THF,25.0,2.0
+twenty conditions,held out,Kumada,7,C17,PdCl2(dppf); ZnCl2,THF,25.0,2.0
+twenty conditions,held out,Kumada,8,C26,Fe(acac)3; TMU,THF,25.0,2.0
+twenty conditions,held out,Kumada,9,C62,NiCl2(dppe),Et2O,25.0,2.0
+twenty conditions,held out,Kumada,10,C78,Fe(acac)2; NMP,THF,25.0,2.0
+twenty conditions,held out,Kumada,11,C37,Ni(acac)2; butadiene,THF,25.0,2.0
+twenty conditions,held out,Kumada,12,C49,Fe(acac)3; SIPr.HCl,THF,25.0,2.0
+twenty conditions,held out,Kumada,13,C58,NiCl2-glyme; DTBPY; MnCl2,Et2O,25.0,2.0
+twenty conditions,held out,Kumada,14,C65,Ni(acac)2,Et2O,25.0,2.0
+twenty conditions,held out,Kumada,15,C75,Fe(acac)3; NMP,2-MeTHF,25.0,2.0
+twenty conditions,held out,Kumada,16,C11,Fe(acac)3; NBP,THF,25.0,2.0
+twenty conditions,held out,Kumada,17,C14,NiCl2; butadiene,THF,25.0,2.0
+twenty conditions,held out,Kumada,18,C39,FeCl3; DMI,THF,25.0,2.0
+twenty conditions,held out,Kumada,19,C48,FeCl3; SIPr.HCl,THF,25.0,2.0
+twenty conditions,held out,Kumada,20,C51,NiCl2(dppe); NaI,THF,25.0,2.0
+twenty conditions,analysed,Reductive-amination,1,C14,Fe(OTf)3; NaBH3CN,MeOH,25.0,12.0
+twenty conditions,analysed,Reductive-amination,2,C32,SnCl2·2H2O; PMHS,MeOH,25.0,12.0
+twenty conditions,analysed,Reductive-amination,3,C13,NaBH3CN; AcOH,DCE,25.0,12.0
+twenty conditions,analysed,Reductive-amination,4,C27,PMHS; H3BO3,EtOH,25.0,12.0
+twenty conditions,analysed,Reductive-amination,5,C11,NaBH3CN; H3BO3,EtOH,25.0,12.0
+twenty conditions,analysed,Reductive-amination,6,C39,pic-BH3; H3BO3,MeOH,25.0,12.0
+twenty conditions,analysed,Reductive-amination,7,C30,Fe(OTf)3; PMHS,MeOH,25.0,12.0
+twenty conditions,analysed,Reductive-amination,8,C34,Ti(OiPr)4; pic-BH3,EtOH,25.0,12.0
+twenty conditions,analysed,Reductive-amination,9,C15,NaBH3CN; H3BO3,MeOH,25.0,12.0
+twenty conditions,analysed,Reductive-amination,10,C9,NaBH3CN; AcOH,MeOH,25.0,12.0
+twenty conditions,analysed,Reductive-amination,11,C28,Ti(OEt)4; PMHS,THF,25.0,12.0
+twenty conditions,analysed,Reductive-amination,12,C29,PMHS; AcOH,DCE,25.0,12.0
+twenty conditions,analysed,Reductive-amination,13,C40,pic-BH3; AcOH,MeOH,25.0,12.0
+twenty conditions,analysed,Reductive-amination,14,C25,PMHS; AcOH,MeOH,25.0,12.0
+twenty conditions,analysed,Reductive-amination,15,C26,Ti(OiPr)4; PMHS,EtOH,25.0,12.0
+twenty conditions,analysed,Reductive-amination,16,C31,PMHS; H3BO3,MeOH,25.0,12.0
+twenty conditions,analysed,Reductive-amination,17,C36,Ti(OEt)4; pic-BH3,THF,25.0,12.0
+twenty conditions,analysed,Reductive-amination,18,C12,Ti(OEt)4; NaBH3CN,THF,25.0,12.0
+twenty conditions,analysed,Reductive-amination,19,C20,Ti(OEt)4; PhSiH3,THF,25.0,12.0
+twenty conditions,analysed,Reductive-amination,20,C16,Ti(OiPr)4; NaBH3CN,THF,25.0,12.0
+twenty conditions,held out,Reductive-amination,1,C17,PhSiH3; AcOH,MeOH,25.0,12.0
+twenty conditions,held out,Reductive-amination,2,C24,Bu2SnCl2; PhSiH3,THF,25.0,12.0
+twenty conditions,held out,Reductive-amination,3,C10,Ti(OiPr)4; NaBH3CN,EtOH,25.0,12.0
+twenty conditions,held out,Reductive-amination,4,C2,Ti(OiPr)4; NaBH4,EtOH,25.0,12.0
+twenty conditions,held out,Reductive-amination,5,C21,PhSiH3; AcOH,DCE,25.0,12.0
+twenty conditions,held out,Reductive-amination,6,C4,Ti(OEt)4; NaBH4,THF,25.0,12.0
+twenty conditions,held out,Reductive-amination,7,C23,PhSiH3; H3BO3,MeOH,25.0,12.0
+twenty conditions,held out,Reductive-amination,8,C33,pic-BH3; AcOH,MeOH,25.0,12.0
+twenty conditions,held out,Reductive-amination,9,C35,pic-BH3; H3BO3,EtOH,25.0,12.0
+twenty conditions,held out,Reductive-amination,10,C37,pic-BH3; AcOH,DCE,25.0,12.0
+twenty conditions,held out,Reductive-amination,11,C38,Fe(OTf)3; pic-BH3,MeOH,25.0,12.0
+twenty conditions,held out,Reductive-amination,12,C19,PhSiH3; H3BO3,EtOH,25.0,12.0
+twenty conditions,held out,Reductive-amination,13,C44,Ti(OEt)4; NaBH(OAc)3,THF,25.0,12.0
+twenty conditions,held out,Reductive-amination,14,C18,Ti(OiPr)4; PhSiH3,EtOH,25.0,12.0
+twenty conditions,held out,Reductive-amination,15,C22,Fe(OTf)3; PhSiH3,MeOH,25.0,12.0
+twenty conditions,held out,Reductive-amination,16,C46,Fe(OTf)3; NaBH(OAc)3,MeOH,25.0,12.0
+twenty conditions,held out,Reductive-amination,17,C47,NaBH(OAc)3; H3BO3,MeOH,25.0,12.0
+twenty conditions,held out,Reductive-amination,18,C3,NaBH4; H3BO3,EtOH,25.0,12.0
+twenty conditions,held out,Reductive-amination,19,C41,NaBH(OAc)3; AcOH,MeOH,25.0,12.0
+twenty conditions,held out,Reductive-amination,20,C43,NaBH(OAc)3; H3BO3,EtOH,25.0,12.0
+twenty conditions,analysed,SNAr,1,C44,"2,6-lutidine",MeCN,100.0,16.0
+twenty conditions,analysed,SNAr,2,C39,KOAc,CPME,100.0,16.0
+twenty conditions,analysed,SNAr,3,C29,TEA,NMP,100.0,16.0
+twenty conditions,analysed,SNAr,4,C47,"2,6-lutidine",t-AmOH,100.0,16.0
+twenty conditions,analysed,SNAr,5,C24,AcOH,NMP,100.0,16.0
+twenty conditions,analysed,SNAr,6,C32,"2,6-lutidine",NMP,100.0,16.0
+twenty conditions,analysed,SNAr,7,C36,DBU,CPME,100.0,16.0
+twenty conditions,analysed,SNAr,8,C37,K2CO3,CPME,100.0,16.0
+twenty conditions,analysed,SNAr,9,C35,Py,CPME,100.0,16.0
+twenty conditions,analysed,SNAr,10,C46,DBU,t-AmOH,100.0,16.0
+twenty conditions,analysed,SNAr,11,C33,DIPEA,CPME,100.0,16.0
+twenty conditions,analysed,SNAr,12,C34,"2,6-lutidine",CPME,100.0,16.0
+twenty conditions,analysed,SNAr,13,C41,DIPEA,MeCN,100.0,16.0
+twenty conditions,analysed,SNAr,14,C9,DIPEA,t-AmOH,100.0,16.0
+twenty conditions,analysed,SNAr,15,C43,Cs2CO3,MeCN,100.0,16.0
+twenty conditions,analysed,SNAr,16,C45,NaOMe,t-AmOH,100.0,16.0
+twenty conditions,analysed,SNAr,17,C5,,DMSO,100.0,16.0
+twenty conditions,analysed,SNAr,18,C16,NaOtAm,t-AmOH,100.0,16.0
+twenty conditions,analysed,SNAr,19,C23,TFA,NMP,100.0,16.0
+twenty conditions,analysed,SNAr,20,C20,TFA,t-AmOH,100.0,16.0
+twenty conditions,held out,SNAr,1,C26,Cs2CO3,NMP,100.0,16.0
+twenty conditions,held out,SNAr,2,C48,DIPEA,NMP,100.0,16.0
+twenty conditions,held out,SNAr,3,C30,"2,6-lutidine",THF,100.0,16.0
+twenty conditions,held out,SNAr,4,C40,NaOtAm,CPME,100.0,16.0
+twenty conditions,held out,SNAr,5,C17,DBU,DMSO,100.0,16.0
+twenty conditions,held out,SNAr,6,C22,PTSA,NMP,100.0,16.0
+twenty conditions,held out,SNAr,7,C21,MsOH,NMP,100.0,16.0
+twenty conditions,held out,SNAr,8,C31,NaOMe,NMP,100.0,16.0
+twenty conditions,held out,SNAr,9,C42,KOH,MeCN,100.0,16.0
+twenty conditions,held out,SNAr,10,C11,NaOtAm,THF,100.0,16.0
+twenty conditions,held out,SNAr,11,C4,Cs2CO3,DMSO,100.0,16.0
+twenty conditions,held out,SNAr,12,C28,NaOtAm,NMP,100.0,16.0
+twenty conditions,held out,SNAr,13,C18,MsOH,t-AmOH,100.0,16.0
+twenty conditions,held out,SNAr,14,C15,KOtBu,THF,100.0,16.0
+twenty conditions,held out,SNAr,15,C12,KOtBu,t-AmOH,100.0,16.0
+twenty conditions,held out,SNAr,16,C6,KOtBu,DMSO,100.0,16.0
+twenty conditions,held out,SNAr,17,C27,KOtBu,NMP,100.0,16.0
+twenty conditions,held out,SNAr,18,C19,PTSA,t-AmOH,100.0,16.0
+twenty conditions,held out,SNAr,19,C53,KHCO3,CPME,100.0,16.0
+twenty conditions,held out,SNAr,20,C14,Cs2CO3,t-AmOH,100.0,16.0
+twenty conditions,analysed,Sonogashira,1,C60,PdCl2(PPh3)2; dppb; DBU,DMSO,80.0,12.0
+twenty conditions,analysed,Sonogashira,2,C76,PdCl2(PPh3)2; CuI; TEA,MeCN,80.0,12.0
+twenty conditions,analysed,Sonogashira,3,C28,Pd2(dba)3; XPhos; K2CO3,DMA,80.0,12.0
+twenty conditions,analysed,Sonogashira,4,C82,PdCl2(dppf); CuI,DMF/TEA (4:1),80.0,12.0
+twenty conditions,analysed,Sonogashira,5,C86,Pd(dppf)Cl2·CH2Cl2; CuI,DMF/TEA (5:3),80.0,12.0
+twenty conditions,analysed,Sonogashira,6,C22,Pd(OAc)2; PPh3; K3PO4,DMF,80.0,12.0
+twenty conditions,analysed,Sonogashira,7,C35,PdCl2(PPh3)2; LiHMDS,THF,80.0,12.0
+twenty conditions,analysed,Sonogashira,8,C93,PdCl2(PPh3)2; CuI; PPh3,TEA/DMF (2:1),80.0,12.0
+twenty conditions,analysed,Sonogashira,9,C34,Pd(PPh3)4; LiHMDS,THF,80.0,12.0
+twenty conditions,analysed,Sonogashira,10,C73,PdCl2(PPh3)2; CuI; iPr2NH,MeCN,80.0,12.0
+twenty conditions,analysed,Sonogashira,11,C25,PdCl2(PPh3)2; AuCl(PPh3); K2CO3,DMF,80.0,12.0
+twenty conditions,analysed,Sonogashira,12,C63,Pd(PPh3)4; DBU,DMSO,80.0,12.0
+twenty conditions,analysed,Sonogashira,13,C64,PdCl2(PPh3)2; AuCl(PPh3); TEA,DMSO,80.0,12.0
+twenty conditions,analysed,Sonogashira,14,C75,Pd(OAc)2; CuI; XPhos; iPr2NH,MeCN,80.0,12.0
+twenty conditions,analysed,Sonogashira,15,C10,Pd(OAc)2; CuI; XantPhos; NaOH,DMF,80.0,12.0
+twenty conditions,analysed,Sonogashira,16,C16,PdCl2(PPh3)2; CuI; iPr2NH,DMF,80.0,12.0
+twenty conditions,analysed,Sonogashira,17,C18,PdCl2(PPh3)2; CuI; TEA,DMF,80.0,12.0
+twenty conditions,analysed,Sonogashira,18,C26,PdCl2(PPh3)2; AuCl(PPh3); Cs2CO3,DMF,80.0,12.0
+twenty conditions,analysed,Sonogashira,19,C29,PdCl2(PPh3)2; CuI; iPr2NH,DMA,80.0,12.0
+twenty conditions,analysed,Sonogashira,20,C38,PdCl2(PPh3)2; CuI; iPr2NH,THF,80.0,12.0
+twenty conditions,held out,Sonogashira,1,C61,PdCl2(PPh3)2; Cu(acac)2; dppb; DBU,DMSO,80.0,12.0
+twenty conditions,held out,Sonogashira,2,C84,PdCl2; PPh3,sBuNH2/H2O (1:1),80.0,12.0
+twenty conditions,held out,Sonogashira,3,C20,PdCl2(PPh3)2; CuI; DBU,DMF,80.0,12.0
+twenty conditions,held out,Sonogashira,4,C33,Pd(OAc)2; XPhos; K2CO3,THF,80.0,12.0
+twenty conditions,held out,Sonogashira,5,C85,PdCl2(PPh3)2,sBuNH2/H2O (1:1),80.0,12.0
+twenty conditions,held out,Sonogashira,6,C94,PdCl2(PPh3)2; CuI,DMSO/TEA (16:13),80.0,12.0
+twenty conditions,held out,Sonogashira,7,C17,Pd(PPh3)4; CuI; TEA,DMF,80.0,12.0
+twenty conditions,held out,Sonogashira,8,C42,PdCl2(PPh3)2; CuI; Cs2CO3,THF,80.0,12.0
+twenty conditions,held out,Sonogashira,9,C80,PdCl2(PPh3)2; AuCl(PPh3); TEA,MeCN,80.0,12.0
+twenty conditions,held out,Sonogashira,10,C83,PdCl2(PPh3)2; CuI; prolinol,DMF/H2O (5:1),80.0,12.0
+twenty conditions,held out,Sonogashira,11,C91,PdCl2(PPh3)2; CuI; TPPA,TEA/THF (2:1),80.0,12.0
+twenty conditions,held out,Sonogashira,12,C30,PdCl2(PPh3)2; AuCl(PPh3); TEA,DMA,80.0,12.0
+twenty conditions,held out,Sonogashira,13,C45,PdCl2(PPh3)2; CuI; K2CO3,THF,80.0,12.0
+twenty conditions,held out,Sonogashira,14,C58,PdCl2(PPh3)2; CuI; TEA,"1,4-dioxane",80.0,12.0
+twenty conditions,held out,Sonogashira,15,C77,Pd(PPh3)4; CuI; TEA,MeCN,80.0,12.0
+twenty conditions,held out,Sonogashira,16,C88,Pd(OAc)2; CuI; PPh3; prolinol,DMF/H2O (5:1),80.0,12.0
+twenty conditions,held out,Sonogashira,17,C12,Pd(OAc)2; CuI; XantPhos; Cs2CO3,DMF,80.0,12.0
+twenty conditions,held out,Sonogashira,18,C31,Pd(PPh3)4; CuI; Cs2CO3,p-xylene,80.0,12.0
+twenty conditions,held out,Sonogashira,19,C81,PdCl2(MeCN)2; XPhos; Cs2CO3,MeCN,80.0,12.0
+twenty conditions,held out,Sonogashira,20,C87,Pd(PPh3)4; CuI; prolinol,DMF/H2O (5:1),80.0,12.0
+twenty conditions,analysed,Suzuki,1,C35,XPhos Pd G3; Cs2CO3,"1,4-dioxane/H2O (4:1)",100.0,12.0
+twenty conditions,analysed,Suzuki,2,C10,CataCXium A Pd G3; Cs2CO3,"1,4-dioxane/H2O (4:1)",100.0,12.0
+twenty conditions,analysed,Suzuki,3,C75,Pd(AmPhos)Cl2; KOAc,MeCN/H2O (3:1),100.0,12.0
+twenty conditions,analysed,Suzuki,4,C26,PdCl2(PPh3)2; Cs2CO3,"1,4-dioxane/H2O (4:1)",100.0,12.0
+twenty conditions,analysed,Suzuki,5,C23,PdCl2(dtbpf); Cs2CO3,"1,4-dioxane/H2O (4:1)",100.0,12.0
+twenty conditions,analysed,Suzuki,6,C13,PCy3 Pd G3; K3PO4,"1,4-dioxane/H2O (4:1)",100.0,12.0
+twenty conditions,analysed,Suzuki,7,C18,Pd(dppe)Cl2; Cs2CO3,"1,4-dioxane/H2O (4:1)",100.0,12.0
+twenty conditions,analysed,Suzuki,8,C20,Pd(XantPhos)Cl2; Cs2CO3,"1,4-dioxane/H2O (4:1)",100.0,12.0
+twenty conditions,analysed,Suzuki,9,C29,PEPPSI-iPr; KOH,"1,4-dioxane/H2O (4:1)",100.0,12.0
+twenty conditions,analysed,Suzuki,10,C19,Pd(dppe)Cl2; K2CO3,"1,4-dioxane/H2O (4:1)",100.0,12.0
+twenty conditions,analysed,Suzuki,11,C27,PdCl2(PPh3)2; K2CO3,"1,4-dioxane/H2O (4:1)",100.0,12.0
+twenty conditions,analysed,Suzuki,12,C71,Pd(OAc)2; PPh3; K2CO3,THF/H2O (4:1),100.0,12.0
+twenty conditions,analysed,Suzuki,13,C34,XPhos Pd G3; K3PO4,"1,4-dioxane/H2O (4:1)",100.0,12.0
+twenty conditions,analysed,Suzuki,14,C7,Pd(dppf)Cl2·CH2Cl2; Cs2CO3,"1,4-dioxane/H2O (4:1)",100.0,12.0
+twenty conditions,analysed,Suzuki,15,C74,Pd(OAc)2; SPhos; K2CO3,MeCN/H2O (3:1),100.0,12.0
+twenty conditions,analysed,Suzuki,16,C39,PdCl2(dtbpf); K2CO3,"1,4-dioxane/H2O (4:1)",100.0,12.0
+twenty conditions,analysed,Suzuki,17,C80,PdCl2(dtbpf); K3PO4,DME/H2O (4:1),100.0,12.0
+twenty conditions,analysed,Suzuki,18,C94,Pd(OAc)2; XPhos; K3PO4,EtOH,100.0,12.0
+twenty conditions,analysed,Suzuki,19,C68,Pd(PPh3)4; K2CO3,THF/H2O (4:1),100.0,12.0
+twenty conditions,analysed,Suzuki,20,C21,Pd2(dba)3; SymPhos; CsF,"1,4-dioxane/H2O (4:1)",100.0,12.0
+twenty conditions,held out,Suzuki,1,C83,Pd(OAc)2; PPh3; Na2CO3,DME/H2O (4:1),100.0,12.0
+twenty conditions,held out,Suzuki,2,C70,Pd(allyl)Cl2; P(tBu)3; K3PO4,THF/H2O (4:1),100.0,12.0
+twenty conditions,held out,Suzuki,3,C76,Pd(AmPhos)Cl2; CsF,MeCN/H2O (3:1),100.0,12.0
+twenty conditions,held out,Suzuki,4,C14,PCy3 Pd G3; Cs2CO3,"1,4-dioxane/H2O (4:1)",100.0,12.0
+twenty conditions,held out,Suzuki,5,C22,PdCl2(dtbpf); K3PO4,"1,4-dioxane/H2O (4:1)",100.0,12.0
+twenty conditions,held out,Suzuki,6,C30,RuPhos Pd G3; Cs2CO3,"1,4-dioxane/H2O (4:1)",100.0,12.0
+twenty conditions,held out,Suzuki,7,C37,Pd(PPh3)4; Na2CO3,"1,4-dioxane/H2O (4:1)",100.0,12.0
+twenty conditions,held out,Suzuki,8,C3,PdCl2(PCy3)2; KOtBu,"1,4-dioxane",100.0,12.0
+twenty conditions,held out,Suzuki,9,C69,XPhos Pd G3; DBU,THF/H2O (4:1),100.0,12.0
+twenty conditions,held out,Suzuki,10,C12,P(tBu)3 Pd G3; Cs2CO3,"1,4-dioxane/H2O (4:1)",100.0,12.0
+twenty conditions,held out,Suzuki,11,C41,CataCXium A Pd G3; K3PO4,"1,4-dioxane",100.0,12.0
+twenty conditions,held out,Suzuki,12,C82,PdCl2(PPh3)2; Na2CO3,DME/H2O (4:1),100.0,12.0
+twenty conditions,held out,Suzuki,13,C11,P(tBu)3 Pd G3; K3PO4,"1,4-dioxane/H2O (4:1)",100.0,12.0
+twenty conditions,held out,Suzuki,14,C24,PdCl2(PCy3)2; K3PO4,"1,4-dioxane/H2O (4:1)",100.0,12.0
+twenty conditions,held out,Suzuki,15,C15,Pd(DPEPhos)Cl2; K3PO4,"1,4-dioxane/H2O (4:1)",100.0,12.0
+twenty conditions,held out,Suzuki,16,C16,Pd(DPEPhos)Cl2; Cs2CO3,"1,4-dioxane/H2O (4:1)",100.0,12.0
+twenty conditions,held out,Suzuki,17,C72,PdCl2(PPh3)2; PPh3; Na2CO3,THF/H2O (4:1),100.0,12.0
+twenty conditions,held out,Suzuki,18,C61,Pd(OAc)2; PPh3; DCHA,THF,100.0,12.0
+twenty conditions,held out,Suzuki,19,C25,PdCl2(PCy3)2; Cs2CO3,"1,4-dioxane/H2O (4:1)",100.0,12.0
+twenty conditions,held out,Suzuki,20,C38,Pd(dba)2; P(tBu)3; K3PO4,"1,4-dioxane/H2O (4:1)",100.0,12.0
+twenty conditions,analysed,Suzuki Bpin,1,A60,Pd(PPh3)4; NaHCO3,DME/H2O (4:1),100.0,12.0
+twenty conditions,analysed,Suzuki Bpin,2,A36,Pd(PPh3)4; K3PO4,DMF/H2O (4:1),100.0,12.0
+twenty conditions,analysed,Suzuki Bpin,3,A58,Pd(PPh3)4; Na2CO3,DME/H2O (4:1),100.0,12.0
+twenty conditions,analysed,Suzuki Bpin,4,A37,Pd(PPh3)4; Na2CO3,DMF/H2O (4:1),100.0,12.0
+twenty conditions,analysed,Suzuki Bpin,5,A11,Pd(PPh3)4; K3PO4,"1,4-dioxane/H2O (4:1)",100.0,12.0
+twenty conditions,analysed,Suzuki Bpin,6,A26,Pd(PPh3)4; Na2CO3,MeCN/H2O (4:1),100.0,12.0
+twenty conditions,analysed,Suzuki Bpin,7,A52,Pd(dba)2; P(o-tolyl)3; Na2CO3,THF/H2O (4:1),100.0,12.0
+twenty conditions,analysed,Suzuki Bpin,8,A54,Pd(PPh3)4; Cs2CO3,THF/H2O (4:1),100.0,12.0
+twenty conditions,analysed,Suzuki Bpin,9,A51,Pd(PPh3)4; Na2CO3,THF/H2O (4:1),100.0,12.0
+twenty conditions,analysed,Suzuki Bpin,10,A71,XPhos Pd G2; K3PO4,MTBE/H2O (4:1),100.0,12.0
+twenty conditions,analysed,Suzuki Bpin,11,A59,Pd(dppf)Cl2·CH2Cl2; K2CO3,DME/H2O (4:1),100.0,12.0
+twenty conditions,analysed,Suzuki Bpin,12,A62,PdCl2(PPh3)2; Na2CO3,DME/H2O (4:1),100.0,12.0
+twenty conditions,analysed,Suzuki Bpin,13,A38,PdCl2(PPh3)2; K2CO3,DMF/H2O (4:1),100.0,12.0
+twenty conditions,analysed,Suzuki Bpin,14,A42,Pd(PPh3)4; K2CO3,DMF/H2O (4:1),100.0,12.0
+twenty conditions,analysed,Suzuki Bpin,15,A50,PdCl2(dtbpf); TEA,THF/H2O (4:1),100.0,12.0
+twenty conditions,analysed,Suzuki Bpin,16,A22,Pd2(dba)3; PCy3; K3PO4,"1,4-dioxane/H2O (4:1)",100.0,12.0
+twenty conditions,analysed,Suzuki Bpin,17,A53,PdCl2(PPh3)2; Na2CO3,THF/H2O (4:1),100.0,12.0
+twenty conditions,analysed,Suzuki Bpin,18,A39,Pd(dppf)Cl2·CH2Cl2; K2CO3,DMF/H2O (4:1),100.0,12.0
+twenty conditions,analysed,Suzuki Bpin,19,A34,Pd(dppf)Cl2·CH2Cl2; K3PO4,DMF/H2O (4:1),100.0,12.0
+twenty conditions,analysed,Suzuki Bpin,20,A67,Pd(dppf)Cl2·CH2Cl2; Cs2CO3,DME/H2O (4:1),100.0,12.0
+twenty conditions,held out,Suzuki Bpin,1,A66,PdCl2(dppf); Na2CO3,DME/H2O (4:1),100.0,12.0
+twenty conditions,held out,Suzuki Bpin,2,A68,PdCl2(dppf); K2CO3,DME/H2O (4:1),100.0,12.0
+twenty conditions,held out,Suzuki Bpin,3,A12,Pd(dppf)Cl2·CH2Cl2; K3PO4,"1,4-dioxane/H2O (4:1)",100.0,12.0
+twenty conditions,held out,Suzuki Bpin,4,A20,PdCl2(PPh3)2; Cs2CO3,"1,4-dioxane/H2O (4:1)",100.0,12.0
+twenty conditions,held out,Suzuki Bpin,5,A27,Pd(dppf)Cl2·CH2Cl2; Cs2CO3,MeCN/H2O (4:1),100.0,12.0
+twenty conditions,held out,Suzuki Bpin,6,A29,PdCl2(PPh3)2; Na2CO3,MeCN/H2O (4:1),100.0,12.0
+twenty conditions,held out,Suzuki Bpin,7,A10,PdCl2(dppf); Na2CO3,"1,4-dioxane/H2O (4:1)",100.0,12.0
+twenty conditions,held out,Suzuki Bpin,8,A19,Pd(dppf)Cl2·CH2Cl2; PCy3; Cs2CO3,"1,4-dioxane/H2O (4:1)",100.0,12.0
+twenty conditions,held out,Suzuki Bpin,9,A61,Pd(dppf)Cl2·CH2Cl2; Na2CO3,DME/H2O (4:1),100.0,12.0
+twenty conditions,held out,Suzuki Bpin,10,A6,Pd(PPh3)4; NaHCO3,"1,4-dioxane/H2O (4:1)",100.0,12.0
+twenty conditions,held out,Suzuki Bpin,11,A76,PdCl2(PPh3)2; TEA,EtOH/H2O (4:1),100.0,12.0
+twenty conditions,held out,Suzuki Bpin,12,A28,Pd(dppf)Cl2·CH2Cl2; Na2CO3,MeCN/H2O (4:1),100.0,12.0
+twenty conditions,held out,Suzuki Bpin,13,A35,PdCl2; K3PO4,DMF/H2O (4:1),100.0,12.0
+twenty conditions,held out,Suzuki Bpin,14,A13,XPhos Pd G2; K3PO4,"1,4-dioxane/H2O (4:1)",100.0,12.0
+twenty conditions,held out,Suzuki Bpin,15,A74,Pd(OAc)2; TEA,EtOH/H2O (4:1),100.0,12.0
+twenty conditions,held out,Suzuki Bpin,16,A85,Pd(dppf)Cl2·CH2Cl2; K3PO4,xylene/H2O (4:1),100.0,12.0
+twenty conditions,held out,Suzuki Bpin,17,A25,PdCl2(PPh3)2; Na2CO3,DMF/H2O (4:1),100.0,12.0
+twenty conditions,held out,Suzuki Bpin,18,A82,Pd(OAc)2; SPhos; K3PO4,t-BuOH/H2O (4:1),100.0,12.0
+twenty conditions,held out,Suzuki Bpin,19,A18,PdCl2(dppf); K3PO4,"1,4-dioxane/H2O (4:1)",100.0,12.0
+twenty conditions,held out,Suzuki Bpin,20,A21,Pd2(dba)3; meCgPPh; K3PO4,"1,4-dioxane/H2O (4:1)",100.0,12.0
+twenty conditions,analysed,Ullmann,1,C71,CuI; N-methyl-L-proline; Cs2CO3,"1,4-dioxane",130.0,16.0
+twenty conditions,analysed,Ullmann,2,C65,"CuI; N,N-dimethylglycine; Cs2CO3","1,4-dioxane",130.0,16.0
+twenty conditions,analysed,Ullmann,3,C9,CuI; dipivaloylmethane; Cs2CO3,DMF,130.0,16.0
+twenty conditions,analysed,Ullmann,4,C58,CuCl; TAEA; Cs2CO3,"1,4-dioxane",130.0,16.0
+twenty conditions,analysed,Ullmann,5,C60,CuBr; TAEA; Cs2CO3,"1,4-dioxane",130.0,16.0
+twenty conditions,analysed,Ullmann,6,C72,CuI; L-proline; Cs2CO3,"1,4-dioxane",130.0,16.0
+twenty conditions,analysed,Ullmann,7,C24,"CuI; 1,10-Phen; K2CO3",DMSO,130.0,16.0
+twenty conditions,analysed,Ullmann,8,C15,Cu2O; 2-(2-pyridyl)benzimidazole; Cs2CO3,DMF,130.0,16.0
+twenty conditions,analysed,Ullmann,9,C17,CuI; DETA; Cs2CO3,DMF,130.0,16.0
+twenty conditions,analysed,Ullmann,10,C57,CuCl; 8-hydroxyquinoline; KOPh,diglyme,130.0,16.0
+twenty conditions,analysed,Ullmann,11,C18,Cu2(OTf)2.benzene; lysine; Cs2CO3,DMF,130.0,16.0
+twenty conditions,analysed,Ullmann,12,C59,CuI; TAEA; Cs2CO3,"1,4-dioxane",130.0,16.0
+twenty conditions,analysed,Ullmann,13,C19,"CuI; 1,10-Phen; Cs2CO3",DMSO,130.0,16.0
+twenty conditions,analysed,Ullmann,14,C34,CuI; ethyl 2-oxocyclohexanecarboxylate; Cs2CO3,DMSO,130.0,16.0
+twenty conditions,analysed,Ullmann,15,C31,Cu(acac)2; 1-(pyridin-2-yl)propan-2-one; Cs2CO3,DMSO,130.0,16.0
+twenty conditions,analysed,Ullmann,16,C8,CuBr; dipivaloylmethane; Cs2CO3,DMF,130.0,16.0
+twenty conditions,analysed,Ullmann,17,C21,"CuCl; 1,10-Phen; Cs2CO3",DMSO,130.0,16.0
+twenty conditions,analysed,Ullmann,18,C30,CuCl; 1-(pyridin-2-yl)propan-2-one; Cs2CO3,DMSO,130.0,16.0
+twenty conditions,analysed,Ullmann,19,C74,"CuI; 2,2-bipyridine; Cs2CO3","1,4-dioxane",130.0,16.0
+twenty conditions,analysed,Ullmann,20,C22,"CuBr; 1,10-Phen; Cs2CO3",DMSO,130.0,16.0
+twenty conditions,held out,Ullmann,1,C4,CuI; 2-(2-pyridyl)benzimidazole; Cs2CO3,DMF,130.0,16.0
+twenty conditions,held out,Ullmann,2,C61,CuI; TAEA; K2CO3,"1,4-dioxane",130.0,16.0
+twenty conditions,held out,Ullmann,3,C29,CuBr; 1-(pyridin-2-yl)propan-2-one; Cs2CO3,DMSO,130.0,16.0
+twenty conditions,held out,Ullmann,4,C12,CuI; K2CO3; Fe(acac)3,DMF,130.0,16.0
+twenty conditions,held out,Ullmann,5,C66,Pd(allyl)Cl2; RockPhos; Cs2CO3,"1,4-dioxane",130.0,16.0
+twenty conditions,held out,Ullmann,6,C7,Cu(acac)2; dipivaloylmethane; Cs2CO3; FeCl3,DMF,130.0,16.0
+twenty conditions,held out,Ullmann,7,C13,CuI; Cs2CO3; Fe(acac)3,DMF,130.0,16.0
+twenty conditions,held out,Ullmann,8,C55,CuI; TAEA; KOtBu,"1,4-dioxane",130.0,16.0
+twenty conditions,held out,Ullmann,9,C6,Cu2O; lysine; Cs2CO3,DMF,130.0,16.0
+twenty conditions,held out,Ullmann,10,C67,CuI; DPEO; NaOtBu,"1,4-dioxane",130.0,16.0
+twenty conditions,held out,Ullmann,11,C73,CuI; Py; Cs2CO3,"1,4-dioxane",130.0,16.0
+twenty conditions,held out,Ullmann,12,C80,CuI; 1-butylimidazole; K3PO4,MeCN,130.0,16.0
+twenty conditions,held out,Ullmann,13,C5,CuBr; lysine; Cs2CO3,DMF,130.0,16.0
+twenty conditions,held out,Ullmann,14,C51,CuI; Me4Phen; Cs2CO3,xylene,130.0,16.0
+twenty conditions,held out,Ullmann,15,C20,"CuI; 1,3-PBO; Cs2CO3",DMSO,130.0,16.0
+twenty conditions,held out,Ullmann,16,C70,Pd(OAc)2; XPhos; Cs2CO3,"1,4-dioxane",130.0,16.0
+twenty conditions,held out,Ullmann,17,C23,"Cu2O; 1,10-Phen; Cs2CO3",DMSO,130.0,16.0
+twenty conditions,held out,Ullmann,18,C25,CuI; picolinic acid; K3PO4,DMSO,130.0,16.0
+twenty conditions,held out,Ullmann,19,C28,CuI; 1-(pyridin-2-yl)propan-2-one; Cs2CO3,DMSO,130.0,16.0
+twenty conditions,held out,Ullmann,20,C3,FeCl3; dipivaloylmethane; Cs2CO3,DMF,130.0,16.0

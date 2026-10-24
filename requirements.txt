@@ -1,0 +1,31 @@
+numpy==2.2.5
+pandas==2.2.3
+scipy==1.15.2
+rdkit==2025.3.2
+networkx==3.5
+matplotlib==3.10.1
+openpyxl==3.1.5
+
+# Transitive dependencies used by the verified Python 3.13.3 analysis environment.
+contourpy==1.4.0
+cycler==0.12.1
+et_xmlfile==2.0.0
+fonttools==4.67.0
+kiwisolver==1.5.1
+packaging==26.3
+pillow==13.0.0
+pyparsing==3.3.3
+python-dateutil==2.9.0.post0
+pytz==2026.5
+six==1.17.0
+tzdata==2026.5
+
+# Deterministic SVG-to-PDF and 600 dpi rendering of the editable overview.
+svglib==2.3.0
+reportlab==4.4.9
+PyMuPDF==1.28.2
+lxml==6.1.1
+cssselect2==0.10.1
+tinycss2==1.5.1
+webencodings==0.6.1
+charset-normalizer==3.5.2
